@@ -1,0 +1,24 @@
+/* TEAM */
+
+Who I am: Optitron
+Location: Hells and Wilderness of North America
+
+/* THANKS */
+
+Bulma: Jeremy Thomas
+Site: https://bulma.io/
+Twitter: @jgthms
+From: London, UK
+
+Humans TXT: We Are People, Not Machines
+Email: hello@humanstxt.org
+Site: http://humanstxt.org
+Twitter: @humanstxt
+Location: World Wide Web, Internet
+
+/* SITE */
+
+Last update: 2023/28/02
+Standards: HTML5, CSS3, PHP, javascript.
+Components: WordPress, Bootstrap, Google Fonts, jQuery
+Software: Atom

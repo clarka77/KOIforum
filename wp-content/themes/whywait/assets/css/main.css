@@ -1,0 +1,79 @@
+/**
+    Combine your static images (such as background graphics, icons, logotypes etc.) into a sprite
+**/
+
+/**
+    Add prefixes to your CSS
+**/
+
+/** Breakpoints used by Bulma Framework
+    mobile        up to 768px
+    tablet        from 769px
+    desktop        from 980px
+    widescreen    from 1180px
+**/
+
+/**  Table of Contents
+
+ * Ch01 - Resets
+ * Ch02 - Typography
+ * Ch03 - Page Structure
+ * Ch04 - Header & Navigation
+ * Ch05 - Content & Media
+ * Ch06 - Footer
+ * Ch07 - Miscellaneous
+ * Ch08 - Print Styles
+**/
+
+/* Ch02 Typography  */
+.koimenu {
+    font-size: 2.4em;
+    font-weight: 800;
+    color: #dc2a2a;
+}
+.koimenu:hover {
+    color: #af1d1d;
+}
+
+/* Responsive Typography */
+
+/* Ch03 Page Structure  */
+.footerspan {
+    text-align: center;
+}
+
+/* Ch04 - Header & Navigation */
+
+
+/* Ch05 - Content & Media */
+img.headerimage {
+    width: 100%;
+    height: 150px;
+}
+
+/* Ch07 Miscellaneous  */
+.bolder {
+    font-weight: bolder;
+}
+
+/* No Javascript Warning */
+#noscript-warning{
+    font-family:sans-serif;
+    position:fixed;
+    top:0px;
+    left:0px;
+    width:100%;
+    z-index:101;
+    text-align:center;
+    font-weight:bold;
+    font-size:120%;
+    color:#fff;
+    background-color:#ae0000;
+    padding:5px 0px 5px 0px;
+}
+#noscript-warning a {color:orange;}
+.nojs { /* background image for no javascript */
+  min-height:1080px;
+  background:url(../images/nojs.jpg) no-repeat center center fixed;
+  background-size: cover;
+}

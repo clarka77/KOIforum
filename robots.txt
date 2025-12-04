@@ -1,0 +1,28 @@
+# Block OpenAI
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+
+# Block Google Gemini AI
+User-agent: Google-Extended
+Disallow: /
+
+# Block Common Crawl
+User-agent: CCBot
+Disallow: /
+
+# Block Perplexity AI
+User-agent: PerplexityBot
+Disallow: /
+
+User-Agent: *
+
+Disallow: /readme.html
+Disallow: /wp-admin/
+
+Allow: /?display=wide
+Allow: /wp-content/uploads/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.kingdomofislam.org/sitemap_index.xml
